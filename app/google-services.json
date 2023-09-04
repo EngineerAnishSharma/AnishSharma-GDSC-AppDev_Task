@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418116434565",
+    "project_id": "login-register-firebase-add3f",
+    "storage_bucket": "login-register-firebase-add3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418116434565:android:a673171abf324e8d4307ec",
+        "android_client_info": {
+          "package_name": "com.example.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418116434565-e6aupvpp9ffbk0rh7dmip75495m2e8bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXSuqdo8cCISPaCT8QtuloIsWKKfrHoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418116434565-e6aupvpp9ffbk0rh7dmip75495m2e8bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
