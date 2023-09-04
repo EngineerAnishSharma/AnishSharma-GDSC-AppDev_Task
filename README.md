@@ -1,22 +1,19 @@
 # AnishSharma-GDSC-AppDev_Task
+## Login and Register Page
 
-## First Page
+## First Page - Login
+![Login](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/cdf517dd-2489-46d2-bf11-f8c70bee1989)
 
-![WhatsApp Image 2023-09-04 at 17 01 29](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/53de7342-34cf-4bd3-bc54-967bfde4a83c)
+## Second Page - Register
+![Register](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/3fccdb98-585d-40ea-8999-01d03552cfb2)
 
-## Second Page
+## Third Page - RegisterInfo
+![RegisterEnter](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/757201d0-fa13-45c2-8b6f-776cc54931f6)
 
-![WhatsApp Image 2023-09-04 at 17 01 29 (1)](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/84f621d5-3c15-40e9-8070-81cee1649594)
+## Fourth Page - LoginInfo
+![LoginEnter](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/0180e27b-5b6b-4c79-9a97-500f72a9463a)
 
-## Third Page
+## Welcome Page
+![LoginSuccess](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/835ec238-81ce-4972-843b-f4368c032de0)
 
-![WhatsApp Image 2023-09-04 at 17 01 29 (2)](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/961cdc78-d492-43e0-9312-a4bb6534efb0)
-
-## Fourth Page
-
-![WhatsApp Image 2023-09-04 at 17 01 30](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/ffb5c8c6-c7b4-40fd-a6f8-151d8ab66855)
-
-## Fifth Page
-
-![WhatsApp Image 2023-09-04 at 17 01 30 (1)](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/6795524d-ed0b-4490-ade6-65f2ee6ffb89)
 
