@@ -16,5 +16,20 @@
 ## Welcome Page
 ![LoginSuccess](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/8db11c56-bec0-433e-b29d-665b0a1684d4)
 
+# Authentication Login/Register App
 
+## Overview
 
+This is a simple authentication app built using [insert programming language/framework here] and connected to an SQLite database. It allows users to register for an account, log in, and access protected resources.
+
+## Features
+
+- User Registration: Users can sign up for a new account by providing a email and password.
+
+- User Login: Registered users can log in securely using their credentials.
+
+- SQLite Database: User data is stored in an SQLite database, ensuring data persistence.
+
+- Secure Password Storage: Passwords are securely hashed and stored in the database to enhance security.
+
+- Authentication Middleware: Protects routes that require authentication to access.
