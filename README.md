@@ -20,7 +20,7 @@
 
 ## Overview
 
-This is a simple authentication app built using [insert programming language/framework here] and connected to an SQLite database. It allows users to register for an account, log in, and access protected resources.
+This is a simple authentication app built using java and connected to an SQLite database. It allows users to register for an account, log in, and access protected resources.
 
 ## Features
 
