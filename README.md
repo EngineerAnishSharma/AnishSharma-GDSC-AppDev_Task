@@ -2,18 +2,19 @@
 ## Login and Register Page
 
 ## First Page - Login
-![Login](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/cdf517dd-2489-46d2-bf11-f8c70bee1989)
+![Login](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/e81349df-d314-4f44-a1fa-db7ac414fd9c)
 
 ## Second Page - Register
-![Register](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/3fccdb98-585d-40ea-8999-01d03552cfb2)
+![Register](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/931b4a0a-f184-411e-b9a3-d429a35633b8)
 
 ## Third Page - RegisterInfo
-![RegisterEnter](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/757201d0-fa13-45c2-8b6f-776cc54931f6)
+![RegisterEnter](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/0ad9dc5e-b254-4b0d-922e-dcc437e9becf)
 
 ## Fourth Page - LoginInfo
-![LoginEnter ](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/4d6e79a3-888f-44e0-a61b-0142995a5fcf)
+![LoginEnter ](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/b9120d43-4ae4-4658-ac55-32501803cdf8)
 
 ## Welcome Page
-![LoginSuccess](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/835ec238-81ce-4972-843b-f4368c032de0)
+![LoginSuccess](https://github.com/EngineerAnishSharma/AnishSharma-GDSC-AppDev_Task/assets/140083026/8db11c56-bec0-433e-b29d-665b0a1684d4)
+
 
 
