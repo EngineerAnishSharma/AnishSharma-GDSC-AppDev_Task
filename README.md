@@ -31,5 +31,3 @@ This is a simple authentication app built using java and connected to an SQLite 
 - SQLite Database: User data is stored in an SQLite database, ensuring data persistence.
 
 - Secure Password Storage: Passwords are securely hashed and stored in the database to enhance security.
-
-- Authentication Middleware: Protects routes that require authentication to access.
